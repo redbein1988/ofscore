@@ -1,0 +1,142 @@
+*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+
+a{text-decoration:none;transition:all .35s ease-in-out;-moz-transition:all .35s ease-in-out;-webkit-transition:all .35s ease-in-out;-o-transition:all .35s ease-in-out;cursor:pointer;outline:0!important;color:#eee}
+
+.event_title_wrapper{float:right;width:20%}
+
+.commenter{padding-left:10px;display:inline-block}
+
+.chanels-fix{text-align:right;padding-right:10px;display:inline-block}
+
+.chanels-commenter{padding-left:15px;display:inline-block;text-align:right}
+
+.chanels-commenter a{color:rgb(60,75,123)}
+
+@font-face{font-family:&#39;Greta_Arabic_Regular&#39;;src:url(&#39;../admin/fonts/Greta_Arabic_Regular.eot&#39;);src:url(&#39;../admin/fonts/Greta_Arabic_Regular.eot?#iefix&#39;) format(&#39;embedded-opentype&#39;),url(&#39;../admin/fonts/Greta_Arabic_Regular.woff&#39;) format(&#39;woff&#39;),url(&#39;../admin/fonts/Greta_Arabic_Regular.otf&#39;) format(&#39;opentype&#39;)}
+
+.font1{font-family:&#39;font1&#39;!important}
+
+.font2{font-family:&#39;font2&#39;!important}
+
+.font3{font-family:&#39;font3&#39;!important}
+
+.font4{font-family:&#39;font4&#39;!important}
+
+.font5{font-family:&#39;font5&#39;!important}
+
+.font6{font-family:&#39;font6&#39;!important}
+
+.font7{font-family:&#39;font7&#39;!important}
+
+.font8{font-family:&#39;font8&#39;!important}
+
+.font9{font-family:&#39;font9&#39;!important}
+
+.font10{font-family:&#39;font10&#39;!important}
+
+.font11{font-famiGreta_Arabic_Regularly:&#39;font11&#39;!important}
+
+.font12{font-family:&#39;font12&#39;!important}
+
+.font13{font-family:&#39;font13&#39;!important}
+
+.font14{font-family:&#39;font14&#39;!important}
+
+.font15{font-family:&#39;font15&#39;!important}
+
+.font16{font-family:&#39;font16&#39;!important}
+
+.font17{font-family:&#39;font17&#39;!important}
+
+.font17{font-family:&#39;font18&#39;!important}
+
+/*-------------------------*/
+
+@font-face{font-family:&#39;NeoSansArabic&#39;;src:url(&#39;../admin/fonts/NeoSansArabic.eot&#39;);src:url(&#39;../admin/fonts/NeoSansArabic.eot?#iefix&#39;) format(&#39;embedded-opentype&#39;),url(&#39;..admin/fonts/NeoSansArabic.woff&#39;) format(&#39;woff&#39;),url(&#39;../admin/fonts/NeoSansArabic.ttf&#39;) format(&#39;truetype&#39;),url(&#39;../admin/fonts/NeoSansArabic.otf&#39;) format(&#39;opentype&#39;),url(&#39;../fonts/NeoSansArabic.svg#NeoSansArabic-Regular&#39;) format(&#39;svg&#39;);font-weight:400;font-style:normal;font-stretch:normal;unicode-range:U+0020-FEFC}
+
+body{}
+
+.col-xs-2{float:right}
+
+img{max-width:100%;vertical-align:middle;border:0}
+
+.center-col{width:calc(100% - 10px);overflow:hidden;float:right;text-align:center;float: left;}
+
+#alba_sports_events{border:1px solid rgb(237,240,243)}
+
+.alba-live-table{display:block;padding:15px;overflow:hidden;float:right;width:100%;background-color:#fff;border:solid 1px rgba(75,158,114,0.27)}
+
+.alba-live-table .box-title{margin:0 0 15px;text-align:center;padding:5px 20px;overflow:hidden;display:block;border:0;border-radius:2px;position:relative;background:rgb(255,175,75);background:-moz-linear-gradient(top,rgb(255,175,75) 0%,rgb(255,146,10) 100%);background:-webkit-linear-gradient(top,#ffaf4b 0%,#ff920a 100%);background:linear-gradient(to bottom,rgb(255,175,75) 0%,rgb(255,146,10) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr=&#39;#ffaf4b&#39;,endColorstr=&#39;#ff920a&#39;,GradientType=0 )}
+
+.alba-live-table .box-title .title{font-size:18px;text-transform:uppercase;height:43px;z-index:99999;margin:0;font-weight:800;line-height:40px;color:#fff}
+
+.box-title .title .fa{width:1.3em;margin-left:.2em;font-size:15px}
+
+.alba_sports_events-event_item{text-align:center;width:100%;display:block;overflow:hidden;margin-bottom:10px;position:relative;border:1px solid #d2d2d2;padding:5px 0;background:rgb(255,255,255);background:-moz-linear-gradient(top,rgb(255,255,255) 0%,rgb(246,246,246) 47%,rgb(237,237,237) 100%);background:-webkit-gradient(left top,left bottom,color-stop(0%,rgba(255,255,255,1)),color-stop(47%,rgba(246,246,246,1)),color-stop(100%,rgba(237,237,237,1)));background:-webkit-linear-gradient(top,rgba(255,255,255,1) 0%,rgba(246,246,246,1) 47%,rgba(237,237,237,1) 100%);background:-o-linear-gradient(top,rgba(255,255,255,1) 0%,rgba(246,246,246,1) 47%,rgba(237,237,237,1) 100%);background:-ms-linear-gradient(top,rgba(255,255,255,1) 0%,rgba(246,246,246,1) 47%,rgba(237,237,237,1) 100%);background:linear-gradient(to bottom,rgb(255,255,255) 0%,rgb(246,246,246) 47%,rgb(237,237,237) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr=&#39;#ffffff&#39;,endColorstr=&#39;#ededed&#39;,GradientType=0 );height: 80px;margin-top: 10px;}
+
+.team-first{text-align:left}
+
+.team-first .alba-team_logo{display:inline-block;text-align:left;float:left;margin-right:10px}
+
+.alba_sports_events-team_title{font-size:18px;display:inline-block;color:rgb(92,92,92);font-weight:700;line-height:37px;letter-spacing:-.5px;font-family: &#39;Work Sans&#39;, sans-serif;}
+
+.alba-team_logo img{display:block;margin:0;width:40px;height:auto}
+
+.team-second{text-align:right}
+
+.team-second .alba-team_logo{display:inline-block;text-align:right;float:right;margin-left:10px}
+
+.event_title_wrapper{text-align:center;height:60px;padding:23px 0;width:130px}
+
+.event_status_inner_coming{display:inline-block;text-align:center;padding:0 0px;color:#171717;font-weight:700;width:85px;font-family: &#39;Work Sans&#39;, sans-serif;font-size: 17px;}
+
+
+.event_status_inner_live{display:block;float:right;width:100%}
+
+.event_status_inner_live span{background:rgb(255,0,0);font-size:13px;font-weight:700;color:rgb(255,255,255);border-radius:2px;font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;padding:2px 11px;display:block;top:3px;position:relative}
+
+.alba_sports_events-event_mask{position:absolute;top:0;right:0;bottom:0;left:0;display:none;z-index:8}
+
+.event_mask_inner{justify-content:center;align-items:center;height:100%;background:rgba(0,0,0,0.63);display:flex}
+
+.alba_sports_events-event_mask_inner_text{margin-top:0!important;background-color:RGB(255,46,46)!important;color:rgb(255,255,255)!important;padding:5px 30px;font-size:14px!important;line-height:22px;text-decoration:none;z-index:555}
+
+.alba_sports_events-event_item:hover .alba_sports_events-event_mask{display:block}
+
+.team-aria:after{content:&quot;&quot;;right:0;height:54px;background:rgba(51,51,51,0.15);position:absolute;width:1px;top:7px}
+
+.event_inner .team-second::after{left:0!important;right:auto}
+
+.chanels-fix,.shampion{padding:12px;height:60px;text-align:center;color:rgb(90,90,90);width:130px;font-family: &#39;Work Sans&#39;, sans-serif;display: none;}
+
+.event_inner .shampion{padding:11px;float: left;}
+
+.shampion .fa{font-size:18px;vertical-align:middle;display:block}
+
+.chanels-fix .fa,.shampion .fa{color:#FF930C;padding-left:5px}
+
+.chanels-fix i.fa-television{font-size:11px;:700;margin-right:-3px;padding-left:3px}
+
+.team-aria{height:60px;padding:15px 15px;float:right;width:calc(50% - 70px);position:relative}
+
+.imgleague{height:35px;width:auto}
+
+.chanels-fix span{display:block;text-align:left;width:100%;padding:0 5px;font-size:13px;font-family: &#39;Work Sans&#39;, sans-serif;}
+
+.events-team_score{display:inline-block;color:#c31111;font-size:30px;font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;font-weight:700}
+
+.vent_status_inner_ended{color:rgb(255,90,0);width:100%;float:right}
+
+.comming-soon{color:rgb(255,255,255);background-color:rgb(138,217,25);padding:4px 2px;border:1px solid transparent;border-radius:2px;line-height:15px;font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;font-size:13px;margin:0 -2px}
+
+/*===========================*/
+
+@media screen and (max-width:980px){.chanels-fix,.shampion{padding:15px 10px;width:150px}.center-col{width:calc(100% - 300px)}}
+
+@media screen and (max-width:840px){.shampion{width:33.33%;text-align:center}.center-col{width:100%;margin-bottom:25px;position:relative;border-bottom:1px solid rgb(228,228,228);height: 75px;}.chanels-fix{right:33.33%!important;width:67%!important;padding-right:15px}.chanels-fix,.shampion{position:absolute;bottom:0;right:0;left:auto;height:auto;padding:0px 0;display: none;}.shampion .fa{font-size:14px;vertical-align:middle;display:inline-block!important}.event_inner .shampion{padding:0px}.chanels-fix span{display:inline-block;text-align:center;padding:0 0;font-size:13px;width:50%;float:right}.shampion span img{display:none}.team-aria:after{display:none}.team-aria{height:auto;padding:13px 5px 5px!important}.alba_sports_events-event_item{height: 75x;}.event_mask_inner{display: none;}}
+
+@media screen and (max-width:564px){.team-first .alba-team_logo,.team-second .alba-team_logo{display:block;text-align:center;float:none;margin-right:0}.alba-team_logo img{display:inline-block}.alba_sports_events-team_title{font-size:14px;display:block;text-align:center;line-height:14px;padding:8px 0}.team-second{text-align:center;position:relative}.team-second .alba_sports_events-team_title{position:absolute;width:100%;top:42px;right:-5}.event_title_wrapper{margin-top:-3px}.alba_sports_events-event_item{height: 80px;}.event_mask_inner{display: none;}.team-aria {height: auto;padding: 3px 5px 5px!important;}}
+
+@media screen and (max-width:480px){.event_inner .chanels-fix span:first-child{display:none!important}.event_inner .chanels-fix{right:50%!important;width:50%!important;padding-right:0!important;display: none;}.event_inner .shampion{width:100%!important;display: none;}.chanels-fix span{width:100%!important}.event_mask_inner{display: none;}}
+
+@media screen and (max-width:360px){.events-team_score{display:inline-block;color:#c31111;font-size:22px;font-family:arial;line-height:20px}.alba_sports_events-team_title{font-size:12px}.event_mask_inner{display: none;}}
