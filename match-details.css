@@ -1,3 +1,23 @@
+.match-details{background-image:url(https://4.bp.blogspot.com/-u0kb3X_wQnU/WOzarVRoKwI/AAAAAAAAF2Q/YafOcm9wnnQTjzuuniCRBvUv8pFo7vhSgCPcB/s1600/match-detail-stadium.jpg);-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:100%;position:relative;background-position:-47px;padding-top:25px;overflow:hidden;display:block;font-family:&#39;sourceblack&#39;, arial, helvetica;background-color:#3C3A46;border-bottom: 10px solid #e9ebee;}
+.coralive-comm{background-color:rgb(255,255,255);color:rgb(40,70,94);-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;margin-bottom:14px;font-size:16px;font-weight:600;text-align:center;font-family: &#39;sourceblack&#39;, arial, helvetica;text-transform: uppercase;}
+.time{color:rgb(255,255,255);font-size:16px;text-shadow:-1px 0 1px rgba(35,31,32,.75);padding:5px 0;text-align:center;margin:0;font-family: &#39;sourceblack&#39;, arial, helvetica;text-transform: uppercase;}
+.result{position:relative;margin:35px 0 0;text-align:center;overflow:hidden}
+.result p{display:inline-block;width:49px;height:46px;-webkit-border-radius:7px;-moz-border-radius:7px;border-radius:7px;background-color:rgba(0,0,0,.55);margin:0 11px;color:rgb(255,255,255);font-family:Tahoma;font-size:32px;font-weight:700;padding-top:10px;text-align:center}
+.team-2,.team-1{text-align:center}
+.team-1 img,.team-2 img{margin:33px auto 20px!important;width:135px;height:auto}
+.clubname{color:rgb(255,255,255);font-size:22px;font-weight:700;text-shadow:-1px 0 1px rgba(35,31,32,.75);margin:5px 0;letter-spacing:1px;display:block;text-align:center;font-family: &#39;sourceblack&#39;, arial, helvetica;}
+.mauch-now{color:rgb(255,255,255);display:block;-webkit-border-radius:7px;-moz-border-radius:7px;border-radius:7px;background-color:rgba(0,0,0,.45);width:118px;font-size:16px;text-shadow:-1px 0 1px rgba(35,31,32,.75);margin:8px auto;font-family: &#39;sourceblack&#39;, arial, helvetica;}
+.match-details__uppergraph-details{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:-moz-box;display:flex;position:relative;height:auto;margin-bottom:30px}
+.match-details__uppergraph-timelinewrapper{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:-moz-box;display:flex;-webkit-justify-content:space-around;-ms-flex-pack:distribute;justify-content:space-around;position:relative;margin-bottom:30px}
+.match-details__uppergraph-timeline{-webkit-flex-basis:490px;-ms-flex-preferred-size:490px;flex-basis:490px;border:4px solid rgb(255,255,255);display:inline-block;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;position:relative;z-index:10;height:0;margin:0 19px}
+.match-details__uppergraph-timelinehalftime{-webkit-flex-basis:10px;-ms-flex-preferred-size:10px;flex-basis:10px;font-size:19px;text-shadow:2px 3px 6px rgb(0,0,0);color:#fdff;margin-top:-13px}
+div#sidebar{}
+.box-text {padding: 10px;}
+h5 {padding: 10px;}
+.col-sm-4 {
+    width: 100%;
+}
+
 @media screen and (max-width:1060px){.tg-navigation ul li a{padding:0 7px}}
 @media screen and (max-width:990px){.tg-logo{width:130px}.tg-navigation{margin-top:23px}.tg-navigation .tg-colhalf,.tg-navigation .tg-colhalf + .tg-colhalf{padding:0}.tg-navigation .tg-colhalf:after{top:-20px}}
 @media screen and (max-width:769px){.tg-logo{width:100px;overflow:hidden;height:120px}#tg-topaddnav .pull-right{padding:45px 0 15px 50px}.tg-colhalf{padding:45px 50px 15px 0}.tg-addnav ul li{padding:0 10px}.tg-socialicons li{padding:0 15px}#tg-navigation{display:none}.tg-topbar{margin-bottom:8px}}
