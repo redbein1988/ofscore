@@ -1,0 +1,78 @@
+@media screen and (max-width:1060px){.tg-navigation ul li a{padding:0 7px}}
+@media screen and (max-width:990px){.tg-logo{width:130px}.tg-navigation{margin-top:23px}.tg-navigation .tg-colhalf,.tg-navigation .tg-colhalf + .tg-colhalf{padding:0}.tg-navigation .tg-colhalf:after{top:-20px}}
+@media screen and (max-width:769px){.tg-logo{width:100px;overflow:hidden;height:120px}#tg-topaddnav .pull-right{padding:45px 0 15px 50px}.tg-colhalf{padding:45px 50px 15px 0}.tg-addnav ul li{padding:0 10px}.tg-socialicons li{padding:0 15px}#tg-navigation{display:none}.tg-topbar{margin-bottom:8px}}
+@media screen and (max-width:600px){#tg-topaddnav .pull-right{display:none}.tg-topbar{margin-bottom:8px;margin-top:10px;position:absolute;top:70px}body .tg-colhalf{padding:15px 0 0 0;width:100%;text-align:center}.tg-topbar .tg-colhalf ul{z-index:20;position:relative;display:inline-block;float:none}.tg-nav .navbar-header{position:relative}.tg-logo{width:100px;overflow:hidden;height:110px;margin-top:0}#korapost{padding:5px}
+.match-details {
+    background-image: none !important;
+}
+.match-details .col-sm-4 {
+    width: 33.33%;
+    padding: 0 5px;
+}
+.coralive-comm {
+    background: none !important;
+    color: rgb(238, 238, 238);
+    font-size: 13px;
+    line-height: 18px;
+}
+.time {
+    display: none;
+}
+.team-1 img, .team-2 img {
+    margin: 0px auto 5px !important;
+    width: 70px;
+    height: auto;
+}
+.clubname {
+    font-size: 12px;
+    margin: 0px 0;
+    letter-spacing: 0px;
+}
+.match-details__uppergraph-timelinewrapper {
+    display: none !important;
+}
+.match-details__uppergraph-details {
+    margin-bottom: 10px;
+}
+.result {
+    position: relative;
+    margin: 8px 0 0;
+    text-align: center;
+    overflow: hidden;
+}
+.result p {
+    display: inline-block;
+    width: 40px;
+    height: 37px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    background-color: rgba(0,0,0,.55);
+    margin: 0 0px;
+    color: rgb(255,255,255);
+    font-family: Tahoma;
+    font-size: 25px;
+    font-weight: 700;
+    padding-top: 8px;
+    text-align: center;
+}
+.mauch-now {
+    border-radius: 3px;
+    width: 100%;
+    font-size: 12px;
+    margin: 7px auto;
+}
+.coralive-comm {
+    display: none;
+}
+iframe {
+    width: 100%;
+    max-width: 100% !important;
+}
+
+}
+@media screen and (max-width:480px){.post-outer {
+    width: 100% !important;
+}.layout-content .item-post{width:100%!important}#korapost{padding:15px 5px;overflow:hidden;display:block;width:100%}.item .entry-title{padding:5px 10px 5px;font-size:15px;line-height:37px;letter-spacing:1px}.post-body a.img,.post-body .separator a{margin-left:0!important;margin-right:0!important}#footer1{text-align:center}.footer h2{text-align:center;font-size:12px}#footer2,#footer3{display:none}.footer h2::after{right:42%;left:auto}.match-details{padding-top: 10px;}
+
+}
