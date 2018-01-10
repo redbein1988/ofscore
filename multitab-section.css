@@ -51,6 +51,12 @@
 .tabs input[type="radio"]:checked + label + .tab { display: block; }
  @media (max-width: 45em) {
 
+.tabs .tab,  .tabs label {
+  -webkit-box-ordinal-group: NaN;
+  -webkit-order: initial;
+  -ms-flex-order: initial;
+  order: initial;
+}
 
 
 .tabs label {
