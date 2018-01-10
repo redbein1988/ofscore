@@ -46,6 +46,23 @@
 
 
 
+
+ @media (max-width: 45em) {
+
+.tabs .tab,  .tabs label {
+  -webkit-box-ordinal-group: NaN;
+  -webkit-order: initial;
+  -ms-flex-order: initial;
+  order: initial;
+}
+
+.tabs label {
+  width: 100%;
+  margin-right: 0;
+  margin-top: 0.2rem;
+}
+
+
 /**
  * Generic Styling
 */
